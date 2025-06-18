@@ -12,6 +12,11 @@ Este proyecto es un prototipo académico desarrollado como parte de los lineamie
 - **Estilo personalizado**: Colores y elementos visuales inspirados en la cultura ecuatoriana.
 
 ## Login del proyecto
+![image](https://github.com/user-attachments/assets/382f1ce1-980b-4894-8165-f3bccdb9c137)
+
+![image](https://github.com/user-attachments/assets/b3e3586c-f7ce-4709-a8eb-fb6d8ac0a416)
+
+![image](https://github.com/user-attachments/assets/c5daeeaa-5b44-462e-b1de-0d4ddc7c66d6)
 
 ## Tecnologías utilizadas
 
